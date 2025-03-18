@@ -1,0 +1,22 @@
+Custom License
+
+Copyright (C) 2025 Om Singh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software (GroceryList), to use, copy, and distribute the Software only in its original, unmodified form, subject to the following conditions:
+
+No Modification: No one is permitted to modify, edit, alter, or create derivative works of this Software, except for the officially recognized collaborators of the repository as designated by Om Singh.
+
+No Redistribution of Modified Versions: You may not redistribute any modified versions of this Software. Any unauthorized modification or redistribution of modified versions will be considered a violation of this license.
+
+Non-Commercial Use Only: This Software may only be used for personal, educational, or non-commercial purposes. Any commercial use, including but not limited to selling, licensing, or integrating it into commercial products or services, is strictly prohibited without explicit permission from Om Singh.
+
+Collaboration Rules: Only officially recognized collaborators assigned by Om Singh may contribute, modify, or maintain the Software.
+
+No Warranty: This Software is provided "as is", without warranty of any kind, express or implied. The author shall not be held liable for any claims, damages, or liabilities arising from the use of the Software.
+
+Termination: Any violation of the terms above will result in the immediate termination of your rights to use this Software.
+
+For permissions beyond these terms, please contact Om Singh.
+
+By using this Software, you agree to the terms outlined in this license.
+
